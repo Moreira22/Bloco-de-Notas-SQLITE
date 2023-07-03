@@ -21,20 +21,7 @@
 <ul>
   <li>Criar, visualizar, editar e excluir notas.</li>
   <li>Organizar as notas por categorias ou etiquetas.</li>
-  <li>Pesquisar notas por título ou conteúdo.</li>
-  <li>Ordenar as notas por data de criação, data de modificação ou título.</li>
   <li>Sincronização automática com o banco de dados local usando o SQLite-expo.</li>
 </ul>
 
-<h2>Como Executar o Aplicativo</h2>
 
-<p>Para executar o Bloco de Notas em seu ambiente de desenvolvimento, siga estas etapas:</p>
-
-<ol>
-  <li>Certifique-se de ter o Node.js instalado em seu sistema.</li>
-  <li>Clone este repositório em seu computador usando o comando <code>git clone https://github.com/seu-usuario/bloco-de-notas.git</code>.</li>
-  <li>Navegue até o diretório do projeto usando o comando <code>cd bloco-de-notas</code>.</li>
-  <li>Execute o comando <code>npm install</code> para instalar todas as dependências do projeto.</li>
-  <li>Em seguida, execute <code>npm start</code> para iniciar o Expo DevTools.</li>
-  <li>Uma nova guia do navegador será aberta com o console do Expo e um QR code.</li>
-  <li>Instale o aplicativo Expo Go em seu dispositivo móvel.</
