@@ -1,6 +1,4 @@
 # Bloco-de-Notas-SQLITE
-<h1>Bloco de Notas em React Native</h1>
-
 <p>Este projeto é um aplicativo de bloco de notas desenvolvido em React Native utilizando várias ferramentas e bibliotecas populares. O objetivo do aplicativo é fornecer uma maneira conveniente e fácil de fazer anotações em dispositivos móveis.</p>
 
 <h2>Recursos e Tecnologias Utilizadas</h2>
