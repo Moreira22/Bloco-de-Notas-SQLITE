@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Bloco-de-Notas",
+    "slug": "Bloco-de-Notas",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
